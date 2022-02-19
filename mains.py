@@ -59,3 +59,34 @@ print(data.columns)
 
 data = data.set_index('Name')
 print(data.head())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
